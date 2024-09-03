@@ -5,82 +5,6 @@
       "title": "aureus"
     },
     {
-      "id": "coniuratio",
-      "title": "adhuc"
-    },
-    {
-      "id": "coniuratio",
-      "title": "vilis"
-    },
-    {
-      "id": "crudelis",
-      "title": "delectatio"
-    },
-    {
-      "id": "demitto",
-      "title": "attonbitus"
-    },
-    {
-      "id": "capto",
-      "title": "asporto"
-    },
-    {
-      "id": "convoco",
-      "title": "vulticulus"
-    },
-    {
-      "id": "iure",
-      "title": "sodalitas"
-    },
-    {
-      "id": "ustulo",
-      "title": "id"
-    },
-    {
-      "id": "territo",
-      "title": "theatrum"
-    },
-    {
-      "id": "teneo",
-      "title": "textor"
-    },
-    {
-      "id": "adduco",
-      "title": "ventito"
-    },
-    {
-      "id": "labore",
-      "title": "avarus"
-    },
-    {
-      "id": "voluptatum",
-      "title": "tunc"
-    },
-    {
-      "id": "vigilo",
-      "title": "uterque"
-    },
-    {
-      "id": "complectus",
-      "title": "solitudo"
-    },
-    {
-      "id": "celo",
-      "title": "decens"
-    },
-    {
-      "id": "paulatim",
-      "title": "subnecto"
-    },
-    {
-      "id": "decerno",
-      "title": "ustulo"
-    },
-    {
-      "id": "iusto",
-      "title": "voveo"
-    },
-    {
       "id": "tamquam",
       "title": "sumptus"
     },
@@ -129,46 +53,6 @@
       "title": "apostolus"
     },
     {
-      "id": "utpote",
-      "title": "alo"
-    },
-    {
-      "id": "depono",
-      "title": "facilis"
-    },
-    {
-      "id": "copiose",
-      "title": "placeat"
-    },
-    {
-      "id": "abduco",
-      "title": "apto"
-    },
-    {
-      "id": "cenaculum",
-      "title": "cimentarius"
-    },
-    {
-      "id": "curso",
-      "title": "adamo"
-    },
-    {
-      "id": "angustus",
-      "title": "patruus"
-    },
-    {
-      "id": "candidus",
-      "title": "caritas"
-    },
-    {
-      "id": "ducimus",
-      "title": "vita"
-    },
-    {
-      "id": "theologus",
-      "title": "solio"
-    },
-    {
       "id": "contra",
       "title": "sodalitas"
     },
@@ -195,10 +79,6 @@
     {
       "id": "demo",
       "title": "minus"
-    },
-    {
-      "id": "aeternus",
-      "title": "repellat"
     }
   ]
 }
