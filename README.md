@@ -2,4 +2,7 @@
 API para consulta de revistas em formato Qualis 2017-2020
 
 >Provido via: https://my-json-server.typicode.com/
+>
+>Endpoint: 
+my-json-server.typicode.com/jrhumberto/qualis
 
