@@ -1,9 +1,26 @@
 {
   "issn": [
     {
-      "id": "barba",
+      "id": ["barba", "bigode", "pelo"],
       "title": "aureus"
     },
+     {
+      "id": ["prima", "sogra"],
+      "title": "sumptus"
+    },
+    {
+      "id": "neto neta",
+      "title": "sumptus"
+    },
+    {
+      "id": {"filho": 10},
+      "title": "sumptus"
+    },
+    {
+      "id": [{"primo":24}, {"sogro":64}],
+      "title": "sumptus"
+    },
+    
     {
       "id": "tamquam",
       "title": "sumptus"
