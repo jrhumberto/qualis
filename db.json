@@ -1,128 +1,142 @@
 {
-    "posts": [
+  "issn0": [
     {
-      "id": "cruentus",
-      "title": "victoria"
+      "id": 1,
+      "powers": [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
     },
     {
-      "id": "verbera",
-      "title": "pax"
+      "id": 2,
+      "powers": [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
     },
     {
-      "id": "ascit",
-      "title": "suadeo"
+      "id": 3,
+      "powers": [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ],
+  "issn2": [
+    {
+      "id": 1,
+      "powers": [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
     },
     {
-      "id": "subito",
-      "title": "depraedor"
+      "id": 2,
+      "powers": [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
     },
     {
-      "id": "caveo",
-      "title": "vox"
+      "id": 3,
+      "powers": [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ],
+  "issn3": [
+    {
+      "id": 1,
+      "powers": [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
     },
     {
-      "id": "velociter",
-      "title": "collum"
+      "id": 2,
+      "powers": [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
     },
     {
-      "id": "verbum",
-      "title": "ullam"
+      "id": 3,
+      "powers": [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ],
+  "issn4": [
+    {
+      "id": 1,
+      "powers": [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
     },
     {
-      "id": "aggero",
-      "title": "canonicus"
+      "id": 2,
+      "powers": [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
     },
     {
-      "id": "adeptio",
-      "title": "temptatio"
+      "id": 3,
+      "powers": [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ],
+  "issn5": [
+    {
+      "id": 1,
+      "powers": [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
     },
     {
-      "id": "patria",
-      "title": "aperte"
+      "id": 2,
+      "powers": [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
     },
     {
-      "id": "sint",
-      "title": "synagoga"
-    },
-    {
-      "id": "voluptatibus",
-      "title": "accusator"
-    },
-    {
-      "id": "vulticulus",
-      "title": "casso"
-    },
-    {
-      "id": "accendo",
-      "title": "alo"
-    },
-    {
-      "id": "cura",
-      "title": "currus"
-    },
-    {
-      "id": "viriliter",
-      "title": "celo"
-    },
-    {
-      "id": "catena",
-      "title": "succurro"
-    },
-    {
-      "id": "carcer",
-      "title": "delinquo"
-    },
-    {
-      "id": "illum",
-      "title": "ante"
-    },
-    {
-      "id": "sollicito",
-      "title": "teres"
-    },
-    {
-      "id": "vicissitudo",
-      "title": "suus"
-    },
-    {
-      "id": "absorbeo",
-      "title": "fugit"
-    },
-    {
-      "id": "subseco",
-      "title": "voluptates"
-    },
-    {
-      "id": "ubi",
-      "title": "vox"
-    },
-    {
-      "id": "arcus",
-      "title": "aperiam"
-    },
-    {
-      "id": "uxor",
-      "title": "ventito"
-    },
-    {
-      "id": "assentator",
-      "title": "abduco"
-    },
-    {
-      "id": "aperte",
-      "title": "veniam"
-    },
-    {
-      "id": "tepesco",
-      "title": "uredo"
-    },
-    {
-      "id": "ea",
-      "title": "aedificium"
-    },
-    {
-      "id": "delectatio",
-      "title": "celebrer"
+      "id": 3,
+      "powers": [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
     }
   ]
 }
