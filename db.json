@@ -1,101 +1,67 @@
 {
-  "issn": [
+  "posts": [
     {
-      "id": ["barba", "bigode", "pelo"],
-      "title": "aureus"
-    },
-     {
-      "id": ["prima", "sogra"],
-      "title": "sumptus"
+      "id": 1,
+      "title": "Post 1"
     },
     {
-      "id": "neto neta",
-      "title": "sumptus"
+      "id": 2,
+      "title": "Post 2"
     },
     {
-      "id": {"filho": 10},
-      "title": "sumptus"
-    },
-    {
-      "id": [{"primo":24}, {"sogro":64}],
-      "title": "sumptus"
-    },
-    
-    {
-      "id": "tamquam",
-      "title": "sumptus"
-    },
-    {
-      "id": "complectus",
-      "title": "timor"
-    },
-    {
-      "id": "carus",
-      "title": "conicio"
-    },
-    {
-      "id": "vix",
-      "title": "stella"
-    },
-    {
-      "id": "optio",
-      "title": "aeger"
-    },
-    {
-      "id": "bestia",
-      "title": "sophismata"
-    },
-    {
-      "id": "aggero",
-      "title": "dapifer"
-    },
-    {
-      "id": "cena",
-      "title": "ait"
-    },
-    {
-      "id": "terreo",
-      "title": "illo"
-    },
-    {
-      "id": "cupressus",
-      "title": "quia"
-    },
-    {
-      "id": "sol",
-      "title": "creator"
-    },
-    {
-      "id": "sub",
-      "title": "apostolus"
-    },
-    {
-      "id": "contra",
-      "title": "sodalitas"
-    },
-    {
-      "id": "theologus",
-      "title": "at"
-    },
-    {
-      "id": "ubi",
-      "title": "avarus"
-    },
-    {
-      "id": "tubineus",
-      "title": "utilis"
-    },
-    {
-      "id": "desipio",
-      "title": "depopulo"
-    },
-    {
-      "id": "taedium",
-      "title": "animus"
-    },
-    {
-      "id": "demo",
-      "title": "minus"
+      "id": 3,
+      "title": "Post 3"
     }
-  ]
+  ],
+  "injuries": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "links": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
